@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FacilitaProcesso</string>
+    <string name="titulo">FacilitaProcesso</string>
+    <string name="abrir_processo">Abrir Processo</string>
+    <string name="indicador_numero_do_processo_text">Número do processo:</string>
+    <string name="salvar_criar">Salvar/Criar</string>
+    <string name="numero_processo_editText_hint">Insira o número do processo aqui</string>
+
+    <string name="empty_not_saved">Processo não salvo porque não recebu valor para seu número.</string>
+</resources>
